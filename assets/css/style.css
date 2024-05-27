@@ -6547,7 +6547,7 @@ h6,
   font-size: 16px;
   font-weight: 400;
   color: var(--base-color);
-  content: '/per order';
+  content: '/per hour';
 }
 
 .pricing-item .pricing-details {
