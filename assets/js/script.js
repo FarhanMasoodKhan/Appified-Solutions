@@ -303,7 +303,7 @@
 
 document.addEventListener("DOMContentLoaded", function() {
     const container = document.getElementById("text-container");
-    const texts = ["UX Designer", "Webflow", "Frontend" , "Product"];
+    const texts = ["UX/UI Designer", "AI & Low-code", "Framer" , "Products"];
     let index = 0;
 
     function displayText() {
